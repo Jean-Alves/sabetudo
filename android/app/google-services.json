@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "525212156266",
+    "firebase_url": "https://sabetudo-83047.firebaseio.com",
+    "project_id": "sabetudo-83047",
+    "storage_bucket": "sabetudo-83047.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525212156266:android:76741e2591e1a1516c2513",
+        "android_client_info": {
+          "package_name": "br.com.devteamsolutions.sabetudo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525212156266-3o7ebeqfohlfe1dr7eimg7hi1h624o0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5ETbuiL34riF1_PnJn5VA2vGaqcPJOGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525212156266-3o7ebeqfohlfe1dr7eimg7hi1h624o0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
